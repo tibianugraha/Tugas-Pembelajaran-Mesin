@@ -5,10 +5,8 @@
 # Mengenal sintaks pada Python
 
 ## Variabel dan Assignment
-
 ### HelloText.py
 <img width="300" height="98" alt="image" src="https://github.com/user-attachments/assets/7427b8ad-0b21-4311-9aa8-36bb8bcfa2d5" />
-
 ### HelloNumber.py
 <img width="300" height="160" alt="image" src="https://github.com/user-attachments/assets/228c8597-aed7-4e41-9205-0cc6cb9ac6c3" />
 
@@ -44,10 +42,10 @@
 
 # Latihan - Tugas 2
 ## Eksplorasi_Siswa.py
-Data set
+#### Data set
 <img width="300" height="208" alt="image" src="https://github.com/user-attachments/assets/ba6d94ae-73bf-486d-86d0-2f16e8ebd466" />
-Scatter plot
+#### Scatter plot
 <img width="300" height="470" alt="image" src="https://github.com/user-attachments/assets/3aed8d04-5fec-4caf-9491-da3681c42ac4" />
-persentase
+#### persentase
 <img width="300" height="581" alt="image" src="https://github.com/user-attachments/assets/f4f5f6d2-3f30-474f-b0dc-46f4bb338d37" />
 
