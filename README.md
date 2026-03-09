@@ -3,9 +3,12 @@
 <img width="300" height="56" alt="image" src="https://github.com/user-attachments/assets/701d1d57-785d-4eed-acc2-00ccefacd8c1" />
 
 #### Mengenal sintaks pada Python
+
 ### Variabel dan Assignment
+
 ## HelloText.py
 <img width="300" height="98" alt="image" src="https://github.com/user-attachments/assets/7427b8ad-0b21-4311-9aa8-36bb8bcfa2d5" />
+
 ## HelloNumber.py
 <img width="300" height="160" alt="image" src="https://github.com/user-attachments/assets/228c8597-aed7-4e41-9205-0cc6cb9ac6c3" />
 
